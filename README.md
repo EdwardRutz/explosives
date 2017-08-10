@@ -1,12 +1,5 @@
 #README
-
-------------------------
-## SET-UP .GITIGNORE
-- [X] .gitignore added.
-- [ ] Run in terminal:  
-	git config --global core.excludesfile ~/.gitignore_global
-- [ ] Delete .gitignore section from README.md
-------------------------
+---------------------
 
 ## Acme Explosives
 
@@ -22,7 +15,7 @@ You are going to be creating several JSON files that will be describing all of t
 ### Product Types
 - [X] Create a JSON file describing types **for each** category of your products. 
 - [X] For each type, add a key/value pair relating to the corresponding category. 
-- [ ] Create at least 3 types for each category.
+- [X] Create at least 3 types for each category.
 
 ### Product Details
 
