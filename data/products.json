@@ -1,0 +1,41 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "product1": {
+            "id": 1,
+            "type": 0,
+            "name": "product",
+            "description": "Description."
+        },
+        "product2": {
+            "id": 2,
+            "type": 0,
+            "name": "product",
+            "description": "Description."
+        },
+        "product3": {
+            "id": 3,
+            "type": 1,
+            "name": "product",
+            "description": "Description."
+        },
+        "product4": {
+            "id": 4,
+            "type": 1,
+            "name": "product",
+            "description": "Description."
+        },
+        "product5": {
+            "id": 5,
+            "type": 1,
+            "name": "product",
+            "description": "Description."
+        }
+
+    }]
+}

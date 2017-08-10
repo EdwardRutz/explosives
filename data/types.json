@@ -1,0 +1,41 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "consumer",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "type1-2",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "type1-3",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "industrial",
+            "description": "Explosives for professional demolitions."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "type2-2",
+            "description": "Explosives for professional demolitions."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "type2-3",
+            "description": "Explosives for professional demolitions."
+        }
+
+    ]
+}
